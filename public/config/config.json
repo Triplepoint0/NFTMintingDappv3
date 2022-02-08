@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x851062CA0bD121300b0495881AA9046969DE06E8",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x851062ca0bd121300b0495881aa9046969de06e8",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "SnoopShiba",
+  "SYMBOL": "SNOOPS",
+  "MAX_SUPPLY": 992,
+  "WEI_COST": 50000000000000000,
+  "DISPLAY_COST": 0.05,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/snoopshiba",
+  "SHOW_BACKGROUND": true
+}
